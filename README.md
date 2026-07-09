@@ -141,3 +141,7 @@ curl -X POST http://127.0.0.1:5001/search \
 - Built a full-stack interface using React, TypeScript, Flask, and REST APIs.
 - Added evaluation and visualization scripts to measure and inspect recommendation quality.
 - Added embedding cache support to avoid recomputing vectors on repeated runs.
+
+## LICENSE
+
+This project is licensed under the MIT License. See the **LICENSE** file for details.
